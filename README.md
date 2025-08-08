@@ -6,12 +6,12 @@ This project is inspired by the YouTube tutorial by Matt Wolfe:
 
 
 🛠️ Tech Stack
-    -Python 3.10+
-    -ElevenLabs SDK
-    -LangChain (Community Tools)
-    -OpenAI API (for image generation)
-    -PyAudio (for mic input/output)
-    -dotenv (for environment config)
+    - Python 3.10+
+    - ElevenLabs SDK
+    - LangChain (Community Tools)
+    - OpenAI API (for image generation)
+    - PyAudio (for mic input/output)
+    - dotenv (for environment config)
 
 
 ⚠️ Notes

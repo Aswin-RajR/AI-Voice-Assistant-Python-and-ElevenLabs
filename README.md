@@ -5,13 +5,15 @@ This project is inspired by the YouTube tutorial by Matt Wolfe:
 📺 [Build an AI Voice Agent (Jarvis Clone)](https://www.youtube.com/watch?v=ECBmgtxd_Zk)
 
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
+
     - Python 3.10+
     - ElevenLabs SDK
     - LangChain (Community Tools)
     - OpenAI API (for image generation)
     - PyAudio (for mic input/output)
     - dotenv (for environment config)
+
 
 
 ⚠️ Notes
